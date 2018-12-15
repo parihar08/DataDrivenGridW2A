@@ -1,0 +1,30 @@
+15/12/2018 14:53:57 devpinoyLogger Browser: chrome : Thread: 0d78cded8c57373c84804e95e83e6e34 : Clicking on the element: bmlBtn_CSS
+15/12/2018 14:53:58 devpinoyLogger Browser: chrome : Thread: b34304a51154506087602bad7d98550e : Clicking on the element: bmlBtn_CSS
+15/12/2018 14:53:58 devpinoyLogger Browser: chrome : Thread: 56621e173ce1cffaac32b16d2820aaf6 : Clicking on the element: bmlBtn_CSS
+15/12/2018 14:53:58 devpinoyLogger Browser: chrome : Thread: b9a4ae89abfe7575b4a9acb5ae03a50e : Clicking on the element: bmlBtn_CSS
+15/12/2018 14:53:58 devpinoyLogger Browser: chrome : Thread: 0d78cded8c57373c84804e95e83e6e34 : Clicking on the element: openaccount_CSS
+15/12/2018 14:53:58 devpinoyLogger Browser: chrome : Thread: f3b0365a2b521ad2c5ac60692ebf203d : Clicking on the element: bmlBtn_CSS
+15/12/2018 14:53:59 devpinoyLogger Browser: chrome : Thread: e45462d00564346e482130612a15bebb : Clicking on the element: bmlBtn_CSS
+15/12/2018 14:54:00 devpinoyLogger Browser: chrome : Thread: b9a4ae89abfe7575b4a9acb5ae03a50e : Clicking on the element: openaccount_CSS
+15/12/2018 14:54:00 devpinoyLogger Browser: chrome : Thread: b34304a51154506087602bad7d98550e : Clicking on the element: addCustBtn_CSS
+15/12/2018 14:54:00 devpinoyLogger Browser: chrome : Thread: f3b0365a2b521ad2c5ac60692ebf203d : Clicking on the element: openaccount_CSS
+15/12/2018 14:54:00 devpinoyLogger Browser: chrome : Thread: 56621e173ce1cffaac32b16d2820aaf6 : Clicking on the element: addCustBtn_CSS
+15/12/2018 14:54:00 devpinoyLogger Browser: chrome : Thread: e45462d00564346e482130612a15bebb : Clicking on the element: addCustBtn_CSS
+15/12/2018 14:54:01 devpinoyLogger Browser: chrome : Thread: 0d78cded8c57373c84804e95e83e6e34 : Selecting the element: customer_CSS
+15/12/2018 14:54:02 devpinoyLogger Browser: chrome : Thread: b9a4ae89abfe7575b4a9acb5ae03a50e : Selecting the element: customer_CSS
+15/12/2018 14:54:02 devpinoyLogger Browser: chrome : Thread: b34304a51154506087602bad7d98550e : Typing on the element: firstname_CSS
+15/12/2018 14:54:02 devpinoyLogger Browser: chrome : Thread: 0d78cded8c57373c84804e95e83e6e34 : Selecting the element: currency_CSS
+15/12/2018 14:54:02 devpinoyLogger Browser: chrome : Thread: e45462d00564346e482130612a15bebb : Typing on the element: firstname_CSS
+15/12/2018 14:54:02 devpinoyLogger Browser: chrome : Thread: f3b0365a2b521ad2c5ac60692ebf203d : Selecting the element: customer_CSS
+15/12/2018 14:54:03 devpinoyLogger Browser: chrome : Thread: 56621e173ce1cffaac32b16d2820aaf6 : Typing on the element: firstname_CSS
+15/12/2018 14:54:03 devpinoyLogger Browser: chrome : Thread: b9a4ae89abfe7575b4a9acb5ae03a50e : Selecting the element: currency_CSS
+15/12/2018 14:54:03 devpinoyLogger Browser: chrome : Thread: b34304a51154506087602bad7d98550e : Typing on the element: lastname_XPATH
+15/12/2018 14:54:04 devpinoyLogger Browser: chrome : Thread: f3b0365a2b521ad2c5ac60692ebf203d : Selecting the element: currency_CSS
+15/12/2018 14:54:04 devpinoyLogger Browser: chrome : Thread: e45462d00564346e482130612a15bebb : Typing on the element: lastname_XPATH
+15/12/2018 14:54:04 devpinoyLogger Browser: chrome : Thread: 56621e173ce1cffaac32b16d2820aaf6 : Typing on the element: lastname_XPATH
+15/12/2018 14:54:05 devpinoyLogger Browser: chrome : Thread: b34304a51154506087602bad7d98550e : Typing on the element: postcode_CSS
+15/12/2018 14:54:05 devpinoyLogger Browser: chrome : Thread: 56621e173ce1cffaac32b16d2820aaf6 : Typing on the element: postcode_CSS
+15/12/2018 14:54:05 devpinoyLogger Browser: chrome : Thread: e45462d00564346e482130612a15bebb : Typing on the element: postcode_CSS
+15/12/2018 14:54:05 devpinoyLogger Browser: chrome : Thread: b34304a51154506087602bad7d98550e : Clicking on the element: addbtn_CSS
+15/12/2018 14:54:06 devpinoyLogger Browser: chrome : Thread: e45462d00564346e482130612a15bebb : Clicking on the element: addbtn_CSS
+15/12/2018 14:54:07 devpinoyLogger Browser: chrome : Thread: 56621e173ce1cffaac32b16d2820aaf6 : Clicking on the element: addbtn_CSS
